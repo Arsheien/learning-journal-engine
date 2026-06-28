@@ -15,4 +15,4 @@ A modular learning journal system.
 
 See:
 
-docs/guides/development-principles.md
+docs/Philosophy/development-principles.md
