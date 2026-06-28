@@ -1,9 +1,18 @@
-# Docs
+# Learning Journal Engine
 
-Project documentation.
+A modular learning journal system.
 
-Contents
+## Features
 
-- Architecture
-- Philosophy
-- Roadmap
+- Modular
+- Markdown First
+- PDF
+- Web
+- GoodNotes
+- Notion
+
+## Philosophy
+
+See:
+
+docs/guides/development-principles.md
