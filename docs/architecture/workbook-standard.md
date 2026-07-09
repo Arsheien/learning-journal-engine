@@ -56,12 +56,14 @@ Master Plan
 Concept Book
     ↓
 Week Workbook
+    ├─ Week Goal
+    ├─ Day Assignment × 7
+    ├─ Daily Page × 7
+    └─ Week Reflection
     ↓
-Daily Pages
+Concept Assessment
     ↓
-Week Review
-    ↓
-Concept Review
+Next Concept
 ```
 
 This hierarchy is mandatory.
